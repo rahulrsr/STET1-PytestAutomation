@@ -1,0 +1,33 @@
+{"Registration":{
+  "Account_Button":"//*[@title='My Account']",
+"first_name_id":"input-firstname",
+"last_name_id":"input-lastname",
+"email_id":"input-email",
+"phone_id":"input-telephone",
+"password_id":"input-password",
+"password_confirmation_id":"input-confirm",
+"agree_checkbox":"//input[@name='agree']",
+"continue_button":"//input[@value='Continue']",
+"warning_msg":"//*[@class='alert alert-danger alert-dismissible']",
+  "success_msg":"//div[@id='content']/h1"
+},
+
+  "LoginPage": {
+"email_input_id": "input-email",
+"password_input_id":"input-password",
+    "login_btn":"//input[@value='Login']",
+    "expected_login_page":"//div[@class='col-sm-9']/h2[1]"
+  },
+
+  "HomePage": {
+"search_field":"//input[@name='search']",
+"search_btn":"//button[@class='btn btn-default btn-lg']",
+"search_caption":"//div[@class='caption']/h4/a",
+    "product_title":"//div[@id='content']//h1",
+    "Add_t_Cart_btn":"//button[@id='button-cart']",
+    "cart":"//span[@id='cart-total']"
+  },
+  "Logout": {
+"logout_msg":"//div[@id='content']/h1"
+  }
+}

@@ -1,0 +1,101 @@
+1615475379575	geckodriver	INFO	Listening on 127.0.0.1:50982
+1615475565721	geckodriver	INFO	Listening on 127.0.0.1:51017
+1615475723871	geckodriver	INFO	Listening on 127.0.0.1:51135
+1615475735292	geckodriver	INFO	Listening on 127.0.0.1:51145
+1615475918796	geckodriver	INFO	Listening on 127.0.0.1:51325
+1615475921881	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofileVWI55x"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615475929385	Marionette	INFO	Listening on port 51333
+1615475929923	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615475940642	Marionette	INFO	Stopped listening on port 51333
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1615475963920	geckodriver	INFO	Listening on 127.0.0.1:51402
+1615475967619	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofile8wZmY1"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615475977131	Marionette	INFO	Listening on port 51416
+1615475977642	Marionette	WARN	TLS certificate errors will be1615475977784	Marionette	WA
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1F0011,n1615476030277	Marionette	INFO	Stopped listening on port 51420
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+rve) Channel error: cannot send/recv
+
+1615476030243	Marionette	INFO	Stopped listening on port 51416
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+", "(unknown module)"))
+1615475999623	Marionette	INFO	Listening on port 51568
+1615476000042	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615476002673	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://im.rediff.com/worldrediff/js_2_5/jquery_1_10_min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1615476010914	Marionette	INFO	Stopped listening on port 51568
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1681: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1681: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1681: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+[Parent 11952, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0146,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x230033,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1030: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\admin\AppData\Local\Temp\rust_mozprofileoXN2As\protections.sqlite
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1615476056490	geckodriver	INFO	Listening on 127.0.0.1:51871
+1615476059594	mozrunner::runner	INFO	Running command: "C:\\P1615476059718	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\console.warn: SearchSettings: "get: No settings file exists,console.warn: SearchSettings: "get: No settings file1615476070472	Marionette	INFO	Listening on port 51885
+1615476071182	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 11584, IPC I/O Parent] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages wil
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+Temp\\rust_mozprofileoWFc5j"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615476090841	Marionette	INFO	Listening on port 52053
+1615476091024	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615476093611	Marionette	INFO	Stopped listening on port 52053
+1615476125643	geckodriver	INFO	Listening on 127.0.0.1:52258
+1615476128752	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofileGo52Kt"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615476137384	Marionette	INFO	Listening on port 52290
+1615476137726	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615476139999	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://im.rediff.com/worldrediff/js_2_5/jquery_1_10_min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1615476148400	Marionette	INFO	Stopped listening on port 52290
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1681: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+[Parent 2012, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1030: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\admin\AppData\Local\Temp\rust_mozprofileGo52Kt\protections.sqlite
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
